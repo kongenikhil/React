@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import DisplayExpenses from "./components/Expense/Expenses";
 import NewExpense from "./components/NewExpense/NewExpense";
 const dummyExpenses = [
