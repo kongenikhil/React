@@ -1,6 +1,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
+/01-starting-setup/node_modules
 /firstapp/node_modules
 /firstapp/.pnp
 .pnp.js
@@ -22,3 +23,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .vscode/settings.json
+01-starting-setup/.vscode/settings.json
+01-starting-setup/yarn.lock
+firstapp/node_modules.rar
